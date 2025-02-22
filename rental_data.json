@@ -1,0 +1,48 @@
+[
+    {
+        "vehicle_id": "01",
+        "brand": "Mustang Mach One",
+        "model": "Mustang Mach One",
+        "vehicle_type": "Sedan",
+        "rent_per_day": 200.0,
+        "available": false,
+        "renter_info": {
+            "name": "saif",
+            "contact": "88768566",
+            "num_days": 2,
+            "rent_date": "2025-02-21 11:07:41"
+        }
+    },
+    {
+        "vehicle_id": "02",
+        "brand": "Chevelle SS",
+        "model": "Chevelle SS",
+        "vehicle_type": "Sedan",
+        "rent_per_day": 100.0,
+        "available": true,
+        "renter_info": null
+    },
+    {
+        "vehicle_id": "03",
+        "brand": "Agera",
+        "model": "Agera",
+        "vehicle_type": "Sedan",
+        "rent_per_day": 5000.0,
+        "available": false,
+        "renter_info": {
+            "name": "Huzaifa",
+            "contact": "03141714774",
+            "num_days": 2,
+            "rent_date": "2025-02-21 11:05:54"
+        }
+    },
+    {
+        "vehicle_id": "01",
+        "brand": "Mustang Mach One",
+        "model": "Mustang Mach One",
+        "vehicle_type": "Sedan",
+        "rent_per_day": 200.0,
+        "available": true,
+        "renter_info": null
+    }
+]
